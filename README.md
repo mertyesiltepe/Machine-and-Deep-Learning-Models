@@ -1,2 +1,2 @@
 # Regression
-İt contains regresion models
+İt contains regression models
